@@ -157,4 +157,7 @@ plt.show()
 Both graphics show that the amount of apartments under 300€/month in every city is vanishingly small. This implicates that Airbnbs take away affordable living space in the cities.
 Due to timelimits I didn't have the capacities to do any further analysis even though this topic is very interesting. 
 
+## Note
+If I had more time I would take care of the different visualizations in the rather aesthetic way to make them easier to read. For example changing the labels, adding titles and so on. For now, I chose to concentrate on getting as many tasks done as possible which lead to graphs that are sometimes difficult to read. 
+
 analysis by *Siri Malin Weber*
